@@ -1,0 +1,28 @@
+E:\Final Project\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe.config
+E:\Final Project\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe
+E:\Final Project\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.pdb
+E:\Final Project\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.AssemblyReference.cache
+E:\Final Project\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.LoginUI.resources
+E:\Final Project\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Properties.Resources.resources
+E:\Final Project\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.RegistrationUI.resources
+E:\Final Project\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.GenerateResource.cache
+E:\Final Project\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.CoreCompileInputs.cache
+E:\Final Project\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.exe
+E:\Final Project\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.pdb
+E:\Final Project\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.LoadingUI.resources
+E:\Final Project\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.PassGenUI.resources
+E:\Final Project\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.ForgotPassUI.resources
+D:\Student Management System\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe.config
+D:\Student Management System\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe
+D:\Student Management System\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.pdb
+D:\Student Management System\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.AssemblyReference.cache
+D:\Student Management System\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.ForgotPassUI.resources
+D:\Student Management System\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.LoadingUI.resources
+D:\Student Management System\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.LoginUI.resources
+D:\Student Management System\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.PassGenUI.resources
+D:\Student Management System\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Properties.Resources.resources
+D:\Student Management System\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.RegistrationUI.resources
+D:\Student Management System\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.GenerateResource.cache
+D:\Student Management System\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.CoreCompileInputs.cache
+D:\Student Management System\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.exe
+D:\Student Management System\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.pdb

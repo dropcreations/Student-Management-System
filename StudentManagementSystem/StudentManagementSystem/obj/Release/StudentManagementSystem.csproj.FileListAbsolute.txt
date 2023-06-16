@@ -1,0 +1,14 @@
+E:\Final Project\StudentManagementSystem\StudentManagementSystem\bin\Release\StudentManagementSystem.exe.config
+E:\Final Project\StudentManagementSystem\StudentManagementSystem\bin\Release\StudentManagementSystem.exe
+E:\Final Project\StudentManagementSystem\StudentManagementSystem\bin\Release\StudentManagementSystem.pdb
+E:\Final Project\StudentManagementSystem\StudentManagementSystem\obj\Release\StudentManagementSystem.csproj.AssemblyReference.cache
+E:\Final Project\StudentManagementSystem\StudentManagementSystem\obj\Release\StudentManagementSystem.ForgotPassUI.resources
+E:\Final Project\StudentManagementSystem\StudentManagementSystem\obj\Release\StudentManagementSystem.LoadingUI.resources
+E:\Final Project\StudentManagementSystem\StudentManagementSystem\obj\Release\StudentManagementSystem.LoginUI.resources
+E:\Final Project\StudentManagementSystem\StudentManagementSystem\obj\Release\StudentManagementSystem.PassGenUI.resources
+E:\Final Project\StudentManagementSystem\StudentManagementSystem\obj\Release\StudentManagementSystem.Properties.Resources.resources
+E:\Final Project\StudentManagementSystem\StudentManagementSystem\obj\Release\StudentManagementSystem.RegistrationUI.resources
+E:\Final Project\StudentManagementSystem\StudentManagementSystem\obj\Release\StudentManagementSystem.csproj.GenerateResource.cache
+E:\Final Project\StudentManagementSystem\StudentManagementSystem\obj\Release\StudentManagementSystem.csproj.CoreCompileInputs.cache
+E:\Final Project\StudentManagementSystem\StudentManagementSystem\obj\Release\StudentManagementSystem.exe
+E:\Final Project\StudentManagementSystem\StudentManagementSystem\obj\Release\StudentManagementSystem.pdb
