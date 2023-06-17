@@ -20,6 +20,23 @@ ___NOTE: Usually a student management system should not delete a student because
 - Now select `Add`.<br><br>![add](https://raw.githubusercontent.com/dropcreations/Student-Management-System/main/Assets/databases_attach_add.png)
 - Select `Student.mdf` and click `OK`<br><br>![mdf](https://raw.githubusercontent.com/dropcreations/Student-Management-System/main/Assets/databases_attach_mdf.png)
 
+## Visual Studio
+
+- Open `StudentManagementSystem.sln` in __Visual Studio__.
+- Now open __Server Explorer__ to connect database.
+- Right-click on `Data Connections` and click `Add Connection...`
+- Then type your server name and select `Student` database.
+- After adding database, right-click on the added database and get `Properties`.
+- In properties, get `Connection String` and paste it into the `ConnectionString` variable in `LoginUI.cs` and `RegistrationUI.cs`
+
 ## User Interface
 
-![LoadingUI](https://raw.githubusercontent.com/dropcreations/Student-Management-System/main/Assets/LoadingUI.gif)
+- Loading UI<br><br>![LoadingUI](https://raw.githubusercontent.com/dropcreations/Student-Management-System/main/Assets/LoadingUI.gif)
+
+- Signin UI<br><br>![SignIn](https://raw.githubusercontent.com/dropcreations/Student-Management-System/main/Assets/SignInUI.png)
+
+- SignUp UI<br><br>![SignUp](https://raw.githubusercontent.com/dropcreations/Student-Management-System/main/Assets/SignUpUI.png)
+
+- NIC for Security UI<br><br>![NICReq](https://raw.githubusercontent.com/dropcreations/Student-Management-System/main/Assets/ReqNIC.png)
+
+- Registration UI<br><br>![Registration](https://raw.githubusercontent.com/dropcreations/Student-Management-System/main/Assets/RegisterUI.png)
